@@ -33,8 +33,10 @@ Our project aims to enhance the efficiency of urban planning by addressing the p
 •	 Loss Function: Mean Squared Error (MSE).
 
 •	 Evaluation Metric: Mean Absolute Error (MAE).
+<img width="605" alt="Screenshot 1446-04-03 at 10 15 47 PM" src="https://github.com/user-attachments/assets/2dbf3384-5e7b-4d84-a3fd-b99b49043a59">
 
-<img width="605" alt="Screenshot 1446-04-03 at 10 15 47 PM" src="https://github.com/user-attachments/assets/156db1b5-db62-4bd7-b4f9-c9d197379528">
+
+
 
 ## Features
 
