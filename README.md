@@ -2,7 +2,6 @@
 predict traffic volume after Capital project ,T5 Zehame Bootcamp
 
 
-### predict traffic volume after Capital project ,T5 Zehame Bootcamp
 
 
 ## Introduction
